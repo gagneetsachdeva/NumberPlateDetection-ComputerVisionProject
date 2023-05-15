@@ -36,6 +36,13 @@ Algorithm Refinement: The license plate detecting algorithm can be enhanced to p
 
 Repeating the Evaluation: To assess the effectiveness of the improved algorithm, the evaluation procedure can be carried out again. The method can be tested, examined, and improved in this iterative manner until the required level of performance and accuracy is attained.
 
+# Initial Elementary Phase Results: 
+![530facda-cecf-4db7-b45d-429bda932ab2](https://github.com/gagneetsachdeva/NumberPlateDetection-ComputerVisionProject/assets/54347314/b6b87ceb-66c2-4d02-9683-e5f03a01caad)
+![caf2c36d-541d-4b5d-a523-253380235532](https://github.com/gagneetsachdeva/NumberPlateDetection-ComputerVisionProject/assets/54347314/237d29ce-35f7-41c7-b513-3303c658e718)
+
+The given code executes a number of image processing operations, such as contrast amplification, thresholding, contour detection, and masking. On the other hand, prospective areas of interest (ROI) that might include the number plate can be extracted using the contour detection process.
+
+
 # Schedule
 
 # Week 1 (April 24 - April 30)
