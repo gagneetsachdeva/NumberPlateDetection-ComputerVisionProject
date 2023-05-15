@@ -1,7 +1,9 @@
 # NumberPlateDetection-ComputerVisionProject
-# Members - Nikhita Tithi, Harika Chadalavada, Shubham Patil, Gagneet Sachdeva
+# Members
+Nikhita Tithi, Harika Chadalavada, Shubham Patil, Gagneet Sachdeva
 
-# Project Title - Security surveillance using vehicle license plate detection.
+# Project Title 
+Security surveillance using vehicle license plate detection.
 
 # Description 
 The project's objective is to create an intelligent security system that increases the effectiveness of security by detecting license plates using OpenCV. The system will process the frames from a video stream as input to find passing automobiles' license plates. To identify and handle problems like illegal parking or toll collection, which can increase congestion and decrease traffic efficiency, the detected license plate numbers will be used.
