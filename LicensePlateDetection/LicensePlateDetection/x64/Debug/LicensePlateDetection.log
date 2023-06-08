@@ -1,0 +1,9 @@
+﻿  CharDetection.cpp
+C:\Users\14252\OneDrive\Desktop\LicensePlateDetection\LicensePlateDetection\CharDetection.cpp(163,95): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  PlateDetection.cpp
+  Main.cpp
+  PossibleChar.cpp
+  PossiblePlate.cpp
+  Preprocess.cpp
+  Generating Code...
+  LicensePlateDetection.vcxproj -> C:\Users\14252\OneDrive\Desktop\LicensePlateDetection\x64\Debug\LicensePlateDetection.exe
