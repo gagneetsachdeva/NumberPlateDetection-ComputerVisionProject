@@ -2,6 +2,8 @@
 # Members
 Nikhita Tithi, Harika Chadalavada, Shubham Patil, Gagneet Sachdeva
 
+Demonstration Video - https://www.youtube.com/watch?v=vEZsc6IHTiQ
+
 # Project Title 
 Security surveillance using vehicle license plate detection.
 
